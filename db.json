@@ -47,15 +47,15 @@
   
 
   {
-    "id": 1234567,
-    "category": "education",
-    "title": "STEM Workshop",
-    "description": "A hands-on workshop for students interested in science, technology, engineering, and math.",
-    "location": "Innovation Hub",
-    "date": "August 15, 2022",
-    "time": "09:00",
+    "id": 1294587,
+    "category": "Hip Hop",
+    "title": "Hip Hop Dance Workshop",
+    "description": "A fun and energetic workshop for students to learn hip hop dance moves.",
+    "location": "Dance Studio",
+    "date": "December 10, 2022",
+    "time": "13:00",
     "petsAllowed": false,
-    "organizer": "Dr. Ada Lovelace"
+    "organizer": "Chris Brown"
   }
 ]
 }
