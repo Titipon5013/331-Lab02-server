@@ -32,6 +32,30 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
-    }
-  ]
+    },
+    {
+      "id": 1234567,
+      "category": "education",
+      "title": "STEM Workshop",
+      "description": "A hands-on workshop for students interested in science, technology, engineering, and math.",
+      "location": "Innovation Hub",
+      "date": "August 15, 2022",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Dr. Ada Lovelace"
+    },
+  
+
+  {
+    "id": 1234567,
+    "category": "education",
+    "title": "STEM Workshop",
+    "description": "A hands-on workshop for students interested in science, technology, engineering, and math.",
+    "location": "Innovation Hub",
+    "date": "August 15, 2022",
+    "time": "09:00",
+    "petsAllowed": false,
+    "organizer": "Dr. Ada Lovelace"
+  }
+]
 }
